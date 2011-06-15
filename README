@@ -1,6 +1,6 @@
 ==========================================================================
 Project:   DragAndDrop
-Copyright: @2011 My Company, Inc.
+
 ==========================================================================
 
-TODO: Describe Your Project
+A minimal implementation of drag and drop between views in Sproutcore. The red view on the left is a source, and the blue view on the right is a drop target. Drag the red view to the blue view to complete a drag and drop operation. Console messages track the operation's progress.

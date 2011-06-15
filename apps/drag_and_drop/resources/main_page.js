@@ -21,7 +21,7 @@ DragAndDrop.mainPage = SC.Page.design({
 					event: evt,
 					source: this,
 					ghost: NO,
-					slideBack: YES
+					slideBack: NO
 				});
 			}
 		}),
